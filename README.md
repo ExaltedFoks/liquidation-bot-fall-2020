@@ -4,6 +4,8 @@ So this is my liquidation bot from fall 2020 - its completely outdated and I rem
 relevant addrs, so you can stub in your own but it could be a good way to start thinking about how
 to do liquidations.
 
+Testing fork.
+
 The bot also has lots of leftover ideas about uniswap arbitrage, etc.
 
 Its not for you to run, but for you to learn from (you can't compile it because i removed the custom
